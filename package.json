@@ -2,7 +2,7 @@
   "name": "gds-component",
   "version": "0.1.0",
   "description": "gds styling components",
-  "main": "build/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "babel lib -d build",
     "build:watch": "babel lib -w -d build",
